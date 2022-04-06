@@ -42,3 +42,13 @@ The main file to run is in the "TO-RUN" directory named 'app.py'. Access the dir
 
 There is some sample data in the "sampledata" directory. The hashes were chosen at random and are not intended 
 to be directed at any specific organization or individual. The following is how this tool works with the sample data:
+
+
+<img src="readmeimg/uploadtxt.PNG">
+
+Upload 'smallerlist.txt' or 'largerlist.txt' to the Check List of Hashes form. It will scan through with VirusTotal and 
+ThreatCrowd and create an excel with the result. In the download page, click on Download to download the result of scan:
+
+<img src="readmeimg/scandone.PNG">
+
+
