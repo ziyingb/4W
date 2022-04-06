@@ -6,7 +6,7 @@
 
 ### System Architecture
 
-<img src="readmeimg/system.PNG">
+<img src="readmeimg/system.png">
 
 ### Feautres:
 
