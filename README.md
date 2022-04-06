@@ -51,4 +51,7 @@ ThreatCrowd and create an excel with the result. In the download page, click on 
 
 <img src="readmeimg/scandone.PNG">
 
+Example of a scan result:
+
+<img src="readmeimg/scanresult.PNG">
 
