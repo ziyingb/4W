@@ -4,6 +4,10 @@
 
 4W Tool is a simple and user-friendly webpage where it utilized VirusTotal and ThreatCrowd to collect useful information from a list of hashes. 
 
+### System Architecture
+
+<img src="readmeimg/system.PNG">
+
 ### Feautres:
 
 - Analyze a list of hashes
