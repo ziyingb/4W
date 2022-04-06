@@ -1,0 +1,4 @@
+requests[security]
+git+https://github.com/AlienVault-Labs/OTX-Python-SDK.git
+-r autorequirements.txt
+
