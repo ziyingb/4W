@@ -97,10 +97,10 @@ def index():
                 VT.add_row(filehash, row)
 
                 # #Threat crowd
-                # TC = libs.threatcrowd.ThreatCrowd()
-                # if PrintHeaders:
-                #     TC.add_headers(Headers)
-                # TC.add_row(filehash, row)
+                TC = libs.threatcrowd.ThreatCrowd()
+                if PrintHeaders:
+                    TC.add_headers(Headers)
+                TC.add_row(filehash, row)
 
                 # output in csv
                 Data.append(row)
