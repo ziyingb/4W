@@ -1,0 +1,10 @@
+<html>
+    <title>Download Result</title>
+    <h1>Scanning of Hashes Done!</h1>
+    <body>
+        <h4>Click Download button to download the result</h4>
+        <form method="post" action ="{{ url_for('download') }}" enctype="multipart/form-data">
+            <input type="submit" name="download" value="Download" >
+          </form>
+    </body>
+</html>
